@@ -1,4 +1,4 @@
-![alt text](https://user-images.githubusercontent.com/10023615/87072022-bcd11e80-c238-11ea-8802-6dcd695acb00.jpg)
+![alt text](https://github.com/debjit-2102/debjit-2102/blob/master/IMG_20200307_180759.jpg?raw=true)
 <!--
 **debjit-2102/debjit-2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
