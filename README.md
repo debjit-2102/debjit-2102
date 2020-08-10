@@ -1,5 +1,7 @@
 ![alt text](https://github.com/debjit-2102/debjit-2102/blob/master/dagd964-b1f88220-2f0a-4521-8d13-ff32b3cc1dd0.gif?raw=true)
-###⚡⚡⚡
+
+
+⚡⚡⚡
 <!--
 **debjit-2102/debjit-2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
